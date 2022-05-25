@@ -1,55 +1,44 @@
 {
-
     "data": [
         {
-            "name":"Aryanda Rizky Pratama",
-            "profile-picture":"/public/image/profilePicture-cropped.jpg",
-            "kampus":"Universitas Pertamina",
-            "teks":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, quo? Rerum molestias omnis cupiditate nemo quam porro sequi vero! Corporis itaque eaque magni provident aliquam ipsum aspernatur nemo illo voluptates.",
-            "linked-in":"https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/",
-            "github":"https://github.com/Aryanda04",
-            "twitter":"-",
-            "link":"https://aryanda04.github.io/portfolio/"
-
+            "name": "Aryanda Rizky Pratama",
+            "profile-picture": "/public/image/profilePicture-cropped.jpg",
+            "kampus": "Universitas Pertamina",
+            "teks": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, quo? Rerum molestias omnis cupiditate nemo quam porro sequi vero! Corporis itaque eaque magni provident aliquam ipsum aspernatur nemo illo voluptates.",
+            "linked-in": "https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/",
+            "github": "https://github.com/Aryanda04",
+            "twitter": "-",
+            "link": "https://aryanda04.github.io/portfolio/"
         },
         {
-            "name":"Aryanda Rizky Pratama",
-            "profile-picture":"/public/image/profilePicture-cropped.jpg",
-
-            "kampus":"Universitas Pertamina",
-            "teks":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, quo? Rerum molestias omnis cupiditate nemo quam porro sequi vero! Corporis itaque eaque magni provident aliquam ipsum aspernatur nemo illo voluptates.",
-            "linked-in":"https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/",
-            "github":"https://github.com/Aryanda04",
-            "twitter":"-",
-            "link":"https://aryanda04.github.io/portfolio/"
-
+            "name": "Tiyas Astutiningsih",
+            "profile-picture": "/public/image/profilePicture-cropped.jpg",
+            "kampus": "Universitas Sebelas Maret",
+            "teks": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, quo? Rerum molestias omnis cupiditate nemo quam porro sequi vero! Corporis itaque eaque magni provident aliquam ipsum aspernatur nemo illo voluptates.",
+            "linked-in": "https://www.linkedin.com/in/tiyas-astutiningsih/",
+            "github": "https://github.com/Aryanda04",
+            "twitter": "-",
+            "link": "https://aryanda04.github.io/portfolio/"
         },
         {
-            "name":"Aryanda Rizky Pratama",
-            "profile-picture":"/public/image/profilePicture-cropped.jpg",
-
-            "kampus":"Universitas Pertamina",
-            "teks":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, quo? Rerum molestias omnis cupiditate nemo quam porro sequi vero! Corporis itaque eaque magni provident aliquam ipsum aspernatur nemo illo voluptates.",
-            "linked-in":"https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/",
-            "github":"https://github.com/Aryanda04",
-            "twitter":"-",
-            "link":"https://aryanda04.github.io/portfolio/"
-
+            "name": "Aryanda Rizky Pratama",
+            "profile-picture": "/public/image/profilePicture-cropped.jpg",
+            "kampus": "Universitas Pertamina",
+            "teks": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, quo? Rerum molestias omnis cupiditate nemo quam porro sequi vero! Corporis itaque eaque magni provident aliquam ipsum aspernatur nemo illo voluptates.",
+            "linked-in": "https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/",
+            "github": "https://github.com/Aryanda04",
+            "twitter": "-",
+            "link": "https://aryanda04.github.io/portfolio/"
         },
         {
-            "name":"Aryanda Rizky Pratama",
-            "profile-picture":"/public/image/profilePicture-cropped.jpg",
-
-            "kampus":"Universitas Pertamina",
-            "teks":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, quo? Rerum molestias omnis cupiditate nemo quam porro sequi vero! Corporis itaque eaque magni provident aliquam ipsum aspernatur nemo illo voluptates.",
-            "linked-in":"https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/",
-            "github":"https://github.com/Aryanda04",
-            "twitter":"-",
-            "link":"https://aryanda04.github.io/portfolio/"
-
+            "name": "Aryanda Rizky Pratama",
+            "profile-picture": "/public/image/profilePicture-cropped.jpg",
+            "kampus": "Universitas Pertamina",
+            "teks": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, quo? Rerum molestias omnis cupiditate nemo quam porro sequi vero! Corporis itaque eaque magni provident aliquam ipsum aspernatur nemo illo voluptates.",
+            "linked-in": "https://www.linkedin.com/in/aryanda-rizky-pratama-b364a11a4/",
+            "github": "https://github.com/Aryanda04",
+            "twitter": "-",
+            "link": "https://aryanda04.github.io/portfolio/"
         }
-
-  
     ]
-  
-  }
+}
